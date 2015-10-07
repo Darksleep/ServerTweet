@@ -7,7 +7,7 @@ whanting to now how to make best cup of coffee then why are you here get out!
   - brain or higly trained tech monkey
   - wget
   - any linux os (only been tested on debian)
-  - root access user with same rights as root
+  - root access or user with same rights as root
   - twitter account
   - nano (think it come's installed on most linux os)
 
