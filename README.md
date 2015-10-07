@@ -1,6 +1,5 @@
 # ServerTweet
-Needing or want your server to send out tweet if service went down then use ServerTweet 
-wanting to now how to make best cup of coffee then why are you here get out!
+Are you needing / wanting your server to send out a tweet if service went down? Then use ServerTweet! Wanting to now how to make the best cup of coffee? Then this readme is not the one you were looking for.
 
 ### what you need
   - brain or highly trained tech monkey
@@ -42,7 +41,7 @@ nano /var/twitter-feed/servertweet.sh
 service=Replace me with just your service name i.e apache2 no spaces
 email=your_email i.e person@earth.com
 ###stop editing
-
+```
 if you followed this right and i was not so tired we might got it working tell if i messed up open to you 
 
 ### Todos
