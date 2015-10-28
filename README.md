@@ -1,3 +1,5 @@
+Do not use master or test use Main as most working updated files
+
 # ServerTweet
 Are you needing / wanting your server to send out a tweet if service went down? Then use ServerTweet! Wanting to now how to make the best cup of coffee? Then this readme is not the one you were looking for.
 
