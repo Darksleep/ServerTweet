@@ -1,8 +1,8 @@
 #!/bin/bash
 
 ###edit the following
-service=your_service 
-email=your_email
+service=(your_service) 
+email=(your_email)
 ###stop editing
 
 host=`hostname -f`
@@ -12,7 +12,7 @@ echo "$service is running"
 else
 /etc/init.d/$service start
 if (( $(ps -ef | grep -v grep | grep $service | wc -l) > 0 ))
-twidge update "Apache Down!!! \0/ apache2 stop working trying to restart."
+twidge update "Apache Down!!! \0/ apache2 stop working trying to restart"
 # Apache down do you get it ha
 then
 subject="$service at $host has been started"
